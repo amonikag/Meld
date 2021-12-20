@@ -18,5 +18,5 @@ An Android appplication to generate Passphrases using Diceware.
 
 # Download 
 
-<a href="https://github.com/gitryder/Meld/blob/master/app/release/app-release.apk?raw=true">Click here to download!</a>
+<a href="https://github.com/amonikag/Meld/releases/download/untagged-422acbb9abe70f568d3b/Meld.apk">Click here to download!</a>
 
