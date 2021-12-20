@@ -12,7 +12,7 @@ An Android appplication to generate Passphrases using Diceware.
 # Screenshots of the app
 
 <p>
-  <img src="https://user-images.githubusercontent.com/65830459/146763645-ba2f60cf-51e4-4712-bf22-d9452acf0f2b.png" width="280"/>
+  <img src="https://user-images.githubusercontent.com/65830459/146763645-ba2f60cf-51e4-4712-bf22-d9452acf0f2b.png" width="280"/><br>
 	<img src="https://user-images.githubusercontent.com/65830459/146763654-48f05527-d249-47dc-bb6e-39fa15ef7c92.png" width="280"/>
 </p>
 
